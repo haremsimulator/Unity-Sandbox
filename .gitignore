@@ -4,6 +4,9 @@
 Temp/
 Library/
 
+# tester assets
+Assets/zExt*
+
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
